@@ -1,4 +1,4 @@
-# Momentary Bot is copyrighted by by the twitter user @60MilesPerHour, Momentary Bot is copyrighted (c) under copyright.com
+# Momentary Bot is copyrighted by by the twitter user @60MilesPerHour, Momentary Bot is copyrighted (c) under copyrighted.com
 
 import sys
 import time
