@@ -28,7 +28,7 @@ def main():
     search = str(input("input twitter user with @ symbol: "))
 
     numberofTweets = int(input("# of retweets: ")) #KEEP RETWEET NUMBER BELOW OR AT @ 25
-
+    
     if numberofTweets <= 25:
 
         logging.debug('User Entered a # of: ' + numberofTweets + str(datetime.datetime.now()))
