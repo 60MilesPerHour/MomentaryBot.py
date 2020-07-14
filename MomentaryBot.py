@@ -12,7 +12,6 @@ x = datetime.datetime.now()
 LOG_FILENAME = 'TwitterBotLogs.log'
 logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG)
 
-
 consumer_key = str(input("input consumer key: "))
 consumer_secret = str(input("input consumer secret key: "))
 access_token = str(input("input access token: "))
