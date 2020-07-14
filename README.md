@@ -7,10 +7,10 @@ instead you will be asked for the API keys and whom you are looking to target th
 lastly, you will also be asked for the number of retweets you want the bot to accomplish, 
 this value must not exceed 25 or the bot will exit the terminal.
 
-Momentary Bot is copyrighted by by the twitter user @60MilesPerHour, Momentary Bot is copyrighted (c) under copyright.com
+Momentary Bot is copyrighted by by the twitter user @60MilesPerHour, Momentary Bot is copyrighted (c) under copyrighted.com
 
 I hereby grant you the downloader of my program to use this software free of
-charge. I the creator of this software grant you permission to use the mentioned
+charge. I the creator of this software hereby grant you permission to use the mentioned
 software without restriction, however you are hereby subject to the following conditions
 
 -the software you download is provided as is without any such warranty of any kind.
