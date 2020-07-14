@@ -1,3 +1,6 @@
+<a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://www.copyrighted.com/work/tw3Gz3jjK5iYWsDj"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/01_1_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/01_1.png" /></a><script src="https://static.copyrighted.com/badges/helper.js"></script>
+
+
 # MomentaryBot.py
 Momentary Bot is like my previous retweet bot, however as you have probably guessed the retweet function is not like before, 
 instead you will be asked for the API keys and whom you are looking to target the bot on. 
