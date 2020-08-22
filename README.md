@@ -2,6 +2,10 @@
 
 
 # MomentaryBot.py
+
+add  
+#!/usr/bin/env python3 to the top line if you want it.
+
 Momentary Bot is like my previous retweet bot, however as you have probably guessed the retweet function is not like before, 
 instead you will be asked for the API keys and whom you are looking to target the bot on. 
 lastly, you will also be asked for the number of retweets you want the bot to accomplish, 
