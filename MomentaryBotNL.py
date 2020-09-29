@@ -22,7 +22,7 @@ print(user.name)
 def main():
     search = str(input("input twitter user with @ symbol: "))
 
-    numberofTweets = int(input("# of retweets: ")) #KEEP RETWEET NUMBER BELOW OR AT @ 2
+    numberofTweets = int(input("# of retweets: ")) #KEEP RETWEET NUMBER BELOW OR AT @ 25
     
     if numberofTweets <= 25:
         for tweet in tweepy.Cursor(api.search, search).items(numberofTweets):
