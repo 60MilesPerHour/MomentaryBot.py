@@ -1,5 +1,5 @@
 <a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://www.copyrighted.com/work/SDN9EdkW1uqttNJe"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/03_1_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/03_1.png" />
-# Momentary Bot
+# Deprecated - Momentary Bot
 
 Momentary Bot is a twist on my Retweet Bot where you can perform the same functionality as my Retweet Bot, however, it is Momentary, hence the name. Momentary Bot is single-use, you will have to enter your API keys and the target of the bot every time you execute the script
 ## Python Library
